@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DS4Reverse
-- 👀 I’m interested in Reverse Engineering Software And Python Programing
+- 👀 I’m interested in Software Reverse Engineering And Python Programing
 - 🌱 I’m currently learning Python Programing
